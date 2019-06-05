@@ -1,0 +1,28 @@
+
+
+.carousel, .carousel-item{
+	height:300px !important;
+}
+
+.carousel-item>img{
+	height:auto !important;
+	width:350px !important;
+	padding-top:50px;
+}
+.col-sm{
+	bg-success;
+}
+.photo{
+	height:200px; 
+	width:200px;
+	float: left;
+}
+.article{
+	border: 5px solid gray;
+
+}
+
+section{
+	height:200px;
+	overflow: hidden;
+}
